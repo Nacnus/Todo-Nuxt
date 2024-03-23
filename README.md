@@ -1,4 +1,4 @@
-# todo2
+# Nuxt.js To Do App
 
 ## Build Setup
 
